@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/egjxn7rgbtual7g4/branch/main?svg=true)](https://ci.appveyor.com/project/TanyaVoz/dom-ahj1/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/ajj0o2wy3329dxlq/branch/main?svg=true)](https://ci.appveyor.com/project/TanyaVoz/ahj-homeworks-events/branch/main)
