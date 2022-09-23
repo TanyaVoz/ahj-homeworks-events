@@ -6,9 +6,8 @@ export default class LogicGame {
 
   goblinClick() {
     if (this.lossClickGoblin === 5) {
-        alert(`Вы проиграли ! \n\nПопаданий: ${this.hitClickGoblin} \nПромахов: ${this.lossClickGoblin}`); // eslint-disable-line
+        alert(`Вы проиграли ! \n\nПопаданий: ${this.hitClickGoblin} \nПромахов: ${this.lossClickGoblin}`); 
       this.lossClickGoblin = 0;
-      // console.log(this.lossClickGoblin);
     }
   }
 }
